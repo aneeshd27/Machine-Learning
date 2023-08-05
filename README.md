@@ -1,3 +1,3 @@
 # Machine-Learning
 Contains code of models based on numerical datasets
-This repository contains codes of machine learning models run on various dataset(numerical).
+This repository contains notebooks of Exploratory Data Analysis run on various readymade datasets.
